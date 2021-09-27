@@ -1,0 +1,2 @@
+User{firstName='Kiri', lastName='Ruslan', age=18}
+User{firstName='Simson', lastName='Jon', age=21}
